@@ -109,7 +109,7 @@
             // TslDataHora
             // 
             this.TslDataHora.Name = "TslDataHora";
-            this.TslDataHora.Size = new System.Drawing.Size(561, 30);
+            this.TslDataHora.Size = new System.Drawing.Size(752, 30);
             this.TslDataHora.Spring = true;
             this.TslDataHora.Text = "10/10/2010 10:10";
             this.TslDataHora.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
@@ -152,7 +152,7 @@
             // TsiCadastraAluno
             // 
             this.TsiCadastraAluno.Name = "TsiCadastraAluno";
-            this.TsiCadastraAluno.Size = new System.Drawing.Size(180, 34);
+            this.TsiCadastraAluno.Size = new System.Drawing.Size(141, 34);
             this.TsiCadastraAluno.Text = "Aluno";
             this.TsiCadastraAluno.Click += new System.EventHandler(this.TsiCadastraAluno_Click);
             // 
